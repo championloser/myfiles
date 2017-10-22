@@ -1,0 +1,5 @@
+address:10.114.86.20
+port:2000
+pthread_num:1
+log:/home/jiaxian/ftp/log/daily.log
+ftphome:/home/jiaxian/ftp/ftphome
